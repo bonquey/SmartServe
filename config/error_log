@@ -1,0 +1,8 @@
+[05-Mar-2025 13:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lesgrand/preview.name.ng/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/lesgrand/preview.name.ng/config/database.php on line 19
+[05-Mar-2025 16:17:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/lesgrand/preview.name.ng/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/lesgrand/preview.name.ng/config/database.php on line 19
